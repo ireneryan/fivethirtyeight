@@ -18,7 +18,7 @@ instead of using less informative `geom_point()`
     `house_district_forecast`, `house_national_forecast`, `masculinity_survey`, 
     `mueller_approval_polls`, `ncaa_w_bball_tourney`, `partisan_lean_district`, 
     `partisan_lean_state`, `russia_investigation`, `senate_national_forecast`, 
-    `senate_seat_forecast`, `trump_lawsuits`, 
+    `senate_seat_forecast`, `trump_lawsuits`
     
     
 
